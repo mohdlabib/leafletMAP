@@ -1,0 +1,138 @@
+﻿[
+    {
+        "file":  "indonesia-district/id11_aceh/id11_aceh_district.geojson",
+        "name":  "Aceh"
+    },
+    {
+        "file":  "indonesia-district/id12_sumatera_utara/id12_sumatera_utara_district.geojson",
+        "name":  "Sumatera Utara"
+    },
+    {
+        "file":  "indonesia-district/id13_sumatera_barat/id13_sumatera_barat_district.geojson",
+        "name":  "Sumatera Barat"
+    },
+    {
+        "file":  "indonesia-district/id14_riau/id14_riau_district.geojson",
+        "name":  "Riau"
+    },
+    {
+        "file":  "indonesia-district/id15_jambi/id15_jambi_district.geojson",
+        "name":  "Jambi"
+    },
+    {
+        "file":  "indonesia-district/id16_sumatera_selatan/id16_sumatera_selatan_district.geojson",
+        "name":  "Sumatera Selatan"
+    },
+    {
+        "file":  "indonesia-district/id17_bengkulu/id17_bengkulu_district.geojson",
+        "name":  "Bengkulu"
+    },
+    {
+        "file":  "indonesia-district/id18_lampung/id18_lampung_district.geojson",
+        "name":  "Lampung"
+    },
+    {
+        "file":  "indonesia-district/id19_kepulauan_bangka_belitung/id19_kepulauan_bangka_belitung_district.geojson",
+        "name":  "Kepulauan Bangka Belitung"
+    },
+    {
+        "file":  "indonesia-district/id21_kepulauan_riau/id21_kepulauan_riau_district.geojson",
+        "name":  "Kepulauan Riau"
+    },
+    {
+        "file":  "indonesia-district/id31_dki_jakarta/id31_dki_jakarta_district.geojson",
+        "name":  "Dki Jakarta"
+    },
+    {
+        "file":  "indonesia-district/id32_jawa_barat/id32_jawa_barat_district.geojson",
+        "name":  "Jawa Barat"
+    },
+    {
+        "file":  "indonesia-district/id33_jawa_tengah/id33_jawa_tengah_district.geojson",
+        "name":  "Jawa Tengah"
+    },
+    {
+        "file":  "indonesia-district/id34_daerah_istimewa_yogyakarta/id34_daerah_istimewa_yogyakarta_district.geojson",
+        "name":  "Daerah Istimewa Yogyakarta"
+    },
+    {
+        "file":  "indonesia-district/id35_jawa_timur/id35_jawa_timur_district.geojson",
+        "name":  "Jawa Timur"
+    },
+    {
+        "file":  "indonesia-district/id36_banten/id36_banten_district.geojson",
+        "name":  "Banten"
+    },
+    {
+        "file":  "indonesia-district/id51_bali/id51_bali_district.geojson",
+        "name":  "Bali"
+    },
+    {
+        "file":  "indonesia-district/id52_nusa_tenggara_barat/id52_nusa_tenggara_barat_district.geojson",
+        "name":  "Nusa Tenggara Barat"
+    },
+    {
+        "file":  "indonesia-district/id53_nusa_tenggara_timur/id53_nusa_tenggara_timur_district.geojson",
+        "name":  "Nusa Tenggara Timur"
+    },
+    {
+        "file":  "indonesia-district/id61_kalimantan_barat/id61_kalimantan_barat_district.geojson",
+        "name":  "Kalimantan Barat"
+    },
+    {
+        "file":  "indonesia-district/id62_kalimantan_tengah/id62_kalimantan_tengah_district.geojson",
+        "name":  "Kalimantan Tengah"
+    },
+    {
+        "file":  "indonesia-district/id63_kalimantan_selatan/id63_kalimantan_selatan_district.geojson",
+        "name":  "Kalimantan Selatan"
+    },
+    {
+        "file":  "indonesia-district/id64_kalimantan_timur/id64_kalimantan_timur_district.geojson",
+        "name":  "Kalimantan Timur"
+    },
+    {
+        "file":  "indonesia-district/id65_kalimantan_utara/id65_kalimantan_utara_district.geojson",
+        "name":  "Kalimantan Utara"
+    },
+    {
+        "file":  "indonesia-district/id71_sulawesi_utara/id71_sulawesi_utara_district.geojson",
+        "name":  "Sulawesi Utara"
+    },
+    {
+        "file":  "indonesia-district/id72_sulawesi_tengah/id72_sulawesi_tengah_district.geojson",
+        "name":  "Sulawesi Tengah"
+    },
+    {
+        "file":  "indonesia-district/id73_sulawesi_selatan/id73_sulawesi_selatan_district.geojson",
+        "name":  "Sulawesi Selatan"
+    },
+    {
+        "file":  "indonesia-district/id74_sulawesi_tenggara/id74_sulawesi_tenggara_district.geojson",
+        "name":  "Sulawesi Tenggara"
+    },
+    {
+        "file":  "indonesia-district/id75_gorontalo/id75_gorontalo_district.geojson",
+        "name":  "Gorontalo"
+    },
+    {
+        "file":  "indonesia-district/id76_sulawesi_barat/id76_sulawesi_barat_district.geojson",
+        "name":  "Sulawesi Barat"
+    },
+    {
+        "file":  "indonesia-district/id81_maluku/id81_maluku_district.geojson",
+        "name":  "Maluku"
+    },
+    {
+        "file":  "indonesia-district/id82_maluku_utara/id82_maluku_utara_district.geojson",
+        "name":  "Maluku Utara"
+    },
+    {
+        "file":  "indonesia-district/id91_papua_barat/id91_papua_barat_district.geojson",
+        "name":  "Papua Barat"
+    },
+    {
+        "file":  "indonesia-district/id94_papua/id94_papua_district.geojson",
+        "name":  "Papua"
+    }
+]
